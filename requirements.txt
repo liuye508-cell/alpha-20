@@ -1,5 +1,7 @@
 dash==2.17.1
-plotly
+plotly==5.24.1
 ccxt==4.3.30
+pandas
 gunicorn==22.0.0
-dash-table
+requests
+numpy
